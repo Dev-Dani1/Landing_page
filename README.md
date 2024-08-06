@@ -33,7 +33,6 @@ open index.html
 HTML5: For the structure of the web page.
 CSS3: For styling and layout.
 Bootstrap 4: For responsive design and components.
-📸 Screenshots
 
 🙌 Contributing
 We welcome contributions to improve our landing page! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome. 💖
